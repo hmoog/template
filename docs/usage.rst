@@ -8,3 +8,8 @@ To use this template, simply update it::
 
 .. class:: Noodle
 	Noodle's docstring.
+	
+	:members: eat, slurp
+
+	.. method:: boil(time=10)
+		Boil the noodle *time* minutes.
